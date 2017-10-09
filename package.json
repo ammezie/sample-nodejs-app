@@ -1,0 +1,23 @@
+{
+  "name": "sample-nodejs-app",
+  "version": "1.0.0",
+  "description": "A pretty simple Node.js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ammezie/sample-nodejs-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ammezie/sample-nodejs-app/issues"
+  },
+  "homepage": "https://github.com/ammezie/sample-nodejs-app#readme",
+  "dependencies": {
+    "express": "^4.16.1"
+  }
+}
